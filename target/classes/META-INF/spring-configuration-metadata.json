@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "duanhy",
+      "type": "com.stater.properties.TokenRedisProperties",
+      "sourceType": "com.stater.properties.TokenRedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "duanhy.token-redis-host",
+      "type": "java.lang.String",
+      "sourceType": "com.stater.properties.TokenRedisProperties"
+    },
+    {
+      "name": "duanhy.token-redis-name",
+      "type": "java.lang.String",
+      "sourceType": "com.stater.properties.TokenRedisProperties"
+    }
+  ],
+  "hints": []
+}
